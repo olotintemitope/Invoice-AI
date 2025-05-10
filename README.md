@@ -72,9 +72,26 @@ Also:
 - Generate the invoice number starting with INV_ followed by a random 6-digit number.
 - Use the following entries instead of the CSV:
 [
-  'Item 1 : 4.4 : 50',
-  'Item 2 : 5.0 : 50',
-  ...
+  'Printer Ink Cartridge : 4.4 : 67',
+  'Wireless Mouse : 5.0 : 42',
+  'Desk Organizer : 5.3 : 88',
+  'Ergonomic Chair : 1.5 : 115',
+  'Whiteboard Markers : 1.1 : 34',
+  'Sticky Notes : 2.6 : 22',
+  'Laptop Stand : 2.7 : 95',
+  'Filing Cabinet : 6.5 : 103',
+  'Monitor Riser : 2.1 : 39',
+  'Conference Speaker : 2.5 : 78',
+  'Keyboard Tray : 2.7 : 65',
+  'Surge Protector : 5.7 : 49',
+  'USB-C Hub : 2.1 : 59',
+  'Paper Shredder : 7.2 : 102',
+  'Portable Scanner : 4.9 : 74',
+  'Desk Lamp : 2.0 : 56',
+  'Office Chair Mat : 7.4 : 81',
+  'Document Tray : 3.6 : 33',
+  'Wireless Keyboard : 4.8 : 60',
+  'Notebook Pack : 4.9 : 19'
 ]
 - Generate the invoice in `ngn` currency.
 """)
